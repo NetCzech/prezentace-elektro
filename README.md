@@ -17,7 +17,7 @@
 >   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
 > </picture><br>
 >
-> Slide jsou volně šiřitelné, pouze prosím o uvádění zdroje
+> Slide jsou volně šiřitelné, pouze prosím o uvedení zdroje
 
 &nbsp;
 
