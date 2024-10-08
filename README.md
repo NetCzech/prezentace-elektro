@@ -21,8 +21,8 @@
 
 &nbsp;
 
----
-
-> **Živý obraz:**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/makerfaireczech/maker_badge](https://github.com/makerfaireczech/maker_badge)
+> **Živý obraz:**
+> 
+- [zivyobraz.eu](https://zivyobraz.eu)
 
 ---
